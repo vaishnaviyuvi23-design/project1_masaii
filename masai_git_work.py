@@ -1,2 +1,7 @@
 print("A")
 print("B")
+print("c")
+print("add")
+print("vaishnavi")
+print("krish")
+print("yuvaraj")
